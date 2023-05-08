@@ -1,0 +1,12 @@
+C:\Users\Lenovo\Desktop\Developed\C#\Weather Station\bin\Debug\Weather Station.exe.config
+C:\Users\Lenovo\Desktop\Developed\C#\Weather Station\bin\Debug\Weather Station.exe
+C:\Users\Lenovo\Desktop\Developed\C#\Weather Station\bin\Debug\Weather Station.pdb
+C:\Users\Lenovo\Desktop\Developed\C#\Weather Station\obj\Debug\Weather Station.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Developed\C#\Weather Station\obj\Debug\Weather_Station.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Developed\C#\Weather Station\obj\Debug\Weather Station.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Developed\C#\Weather Station\obj\Debug\Weather Station.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Developed\C#\Weather Station\obj\Debug\Weather Station.exe
+C:\Users\Lenovo\Desktop\Developed\C#\Weather Station\obj\Debug\Weather Station.pdb
+C:\Users\Lenovo\Desktop\Developed\C#\Weather Station\bin\Debug\AGauge.dll
+C:\Users\Lenovo\Desktop\Developed\C#\Weather Station\obj\Debug\Weather Station.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\Developed\C#\Weather Station\obj\Debug\Weather_Station.Weather_Station.resources
